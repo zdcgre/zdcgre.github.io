@@ -1,3 +1,5 @@
+title: 麟渡兮 GRE 部落格
+
 # 麟渡兮作文
 
 資料來源：<a href="https://www.ets.org/pdfs/gre/issue-pool.pdf" target="_blank">ETS Issue 題庫</a>
