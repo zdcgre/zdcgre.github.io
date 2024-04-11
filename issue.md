@@ -1,5 +1,7 @@
+
 [回首頁](index.html) 
-## 麟渡兮作文
+
+### 麟渡兮作文
 
 資料來源：<a href="https://www.ets.org/pdfs/gre/issue-pool.pdf" target="_blank">ETS Issue 題庫</a>
 
@@ -8,12 +10,6 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 每一個 Issue 題包含一個命題 (statement) 和寫作指示 (instructions)，如下題：
 
 ![](/issue/img/Picture1.png "例題")
-
-### 命題
-
----
-
-### 寫作指示
 
 ---
 
@@ -27,11 +23,11 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 可分為開放式命題寫作 (1-4)、閉鎖式命題寫作 (5-6) 兩種。以下就這兩種寫作策略分析：
 
-### 開放式命題寫作：
-
 ---
 
 開放式命題寫作對立場和支持理由不加限制，由寫作者自行決定。寫作指示 1-3 非常類似，分析如下：
+
+![](/issue/img/Picture2.png "開放式命題寫作")
 
 首先你得討論你同意或不同意此一statement, recommendation, claim的程度為何？下一句的explain your reasoning for the position you take有些多餘，因為真正要討論的細節在最下方的you should consider…, describe specific circumstances…, be sure to address…，依照這些具體指示來開展並支持你的立場 (develop and support your position)，其本身就是在explain your reasoning for the position you take，所以對claim也是適用的。最下方論理 (reasoning) 部分可以討論 “正面” (hold true, be advantageous, compelling) 理由並舉例，也可以討論 “反面” (not hold true, not be advantageous, challenge) 理由並舉例。
 
@@ -39,4 +35,4 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 寫作指示4也是開放性命題的一種，和指示1-3很類似，只不過命題為某一政策 (policy)。論理部分要討論政策實施後的可能後果 (“正面” 與 “負面” 兩種後果)，而這些後果如何決定你的立場。注意，政策相關命題通常站在一個較高的立足點，討論 “眾人” (國家、政府、社會、政治、企業、大學) 之事，寫作上注意視角要面對群眾，而非自己或單一個體，想像你是總統、公司CEO、大學校長，你會如何決定某一政策的實施與否。
 
-
+---
