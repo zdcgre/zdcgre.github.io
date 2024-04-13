@@ -9,7 +9,7 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 每一個 Issue 題包含一個命題 (statement) 和寫作指示 (instructions)，如下題：
 
-<img src="/issue/img/Picture1.png" width="80%" height="80%" alt="例題">
+<img src="/issue/img/Picture1.png" alt="例題" class="center" width="80%" height="80%" >
 
 ---
 
@@ -27,7 +27,7 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 開放式命題寫作對立場和支持理由不加限制，由寫作者自行決定。寫作指示 1-3 非常類似，分析如下：
 
-<img src="/issue/img/Picture2.png" width="60%" height="60%" alt="開放式命題寫作">
+<img src="/issue/img/Picture2.png" alt="開放式命題寫作" class="center" width="70%" height="70%">
 
 首先你得討論你是否同意 (或不同意) 此一 statement, recommendation, claim，以及同意 (或不同意) 程度為何？下一句的 explain your reasoning for the position you take 有些多餘，因為真正要討論的細節在最下方的 you should consider…, describe specific circumstances…, be sure to address…，依照這些具體指示來開展並支持你的立場 (develop and support your position)，其本身就是在 explain your reasoning for the position you take，所以對 claim 也是適用的。最下方論理 (reasoning) 部分可以討論 “正面” (hold true, be advantageous, compelling) 理由並舉例，也可以討論 “反面” (not hold true, not be advantageous, challenge) 理由並舉例。
 
@@ -37,7 +37,7 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 寫作流程整理如下：
 
-<img src="/issue/img/Picture3.png" width="50%" height="50%" alt="開放式命題寫作流程">
+<img src="/issue/img/Picture3.png" alt="開放式命題寫作流程" class="center" width="40%" height="40%">
 
 ### 閉鎖式命題寫作
 
@@ -47,7 +47,7 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 流程整理如下：
 
-<img src="/issue/img/Picture4.png" width="50%" height="50%" alt="閉鎖式命題寫作流程">
+<img src="/issue/img/Picture4.png" alt="閉鎖式命題寫作流程" class="center" width="50%" height="50%">
 
 ### 時間安排
 
