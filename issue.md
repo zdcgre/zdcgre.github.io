@@ -9,7 +9,7 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 每一個 Issue 題包含一個命題 (statement) 和寫作指示 (instructions)，如下題：
 
-![](/issue/img/Picture1.png "例題")
+<img src="/issue/img/Picture1.png" width="800" height="600" alt="例題">
 
 ---
 
@@ -66,3 +66,8 @@ Issue 命題通常都不長，有的甚至只有短短一句話，往往寫作�
 
 ---
 
+開放式命題—寫作指示 1 (53 題)：
+
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+以下 53 題的寫作指示相同，不再重複。
