@@ -9,7 +9,7 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 每一個 Issue 題包含一個命題 (statement) 和寫作指示 (instructions)，如下題：
 
-<img src="/issue/img/Picture1.png" width="50%" height="50%" alt="例題">
+<img src="/issue/img/Picture1.png" width="80%" height="80%" alt="例題">
 
 ---
 
@@ -23,13 +23,11 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 可分為開放式命題寫作 (1-4)、閉鎖式命題寫作 (5-6) 兩種。
 
----
-
 ### 開放式命題寫作
 
 開放式命題寫作對立場和支持理由不加限制，由寫作者自行決定。寫作指示 1-3 非常類似，分析如下：
 
-![](/issue/img/Picture2.png "開放式命題寫作")
+<img src="/issue/img/Picture2.png" width="60%" height="60%" alt="開放式命題寫作">
 
 首先你得討論你是否同意 (或不同意) 此一 statement, recommendation, claim，以及同意 (或不同意) 程度為何？下一句的 explain your reasoning for the position you take 有些多餘，因為真正要討論的細節在最下方的 you should consider…, describe specific circumstances…, be sure to address…，依照這些具體指示來開展並支持你的立場 (develop and support your position)，其本身就是在 explain your reasoning for the position you take，所以對 claim 也是適用的。最下方論理 (reasoning) 部分可以討論 “正面” (hold true, be advantageous, compelling) 理由並舉例，也可以討論 “反面” (not hold true, not be advantageous, challenge) 理由並舉例。
 
@@ -39,21 +37,17 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 寫作流程整理如下：
 
-![](/issue/img/Picture3.png "開放式命題寫作流程")
-
----
+<img src="/issue/img/Picture3.png" width="50%" height="50%" alt="開放式命題寫作流程">
 
 ### 閉鎖式命題寫作
 
 指示 5-6 比較特殊，必須在 “固定框架” 下進行討論，不得跳出。指示 5 的命題給出兩種對立觀點 (Some people believe/claim/argue 某一觀點. Others believe/claim/argue 另一種對立的觀點)。類似辯論賽的正反持方，你只能選一邊站 (不能走中間路線了)，論理部分要舉例 “支持” 己方論點，並且 “攻擊” 對方論點，注意指示說 you should address both of the views presented，所以雙方論點都要討論。
 
-指示6的命題分為 Claim 和 Reason 兩個部分，必須把 Claim 和 Reason 的搭配看作是一個整體來決定同意或不同意命題的程度 (可以走中間路線)，“只能” 討論命題中提供的 Reason，不能跳脫。想像你在辯論賽中，若 Reason 是己方論點，你要如何舉例支持。若 Reason 是對方論點，你要如何攻擊其邏輯缺陷。
+指示 6 的命題分為 Claim 和 Reason 兩個部分，必須把 Claim 和 Reason 的搭配看作是一個整體來決定同意或不同意命題的程度 (可以走中間路線)，“只能” 討論命題中提供的 Reason，不能跳脫。想像你在辯論賽中，若 Reason 是己方論點，你要如何舉例支持。若 Reason 是對方論點，你要如何攻擊其邏輯缺陷。
 
 流程整理如下：
 
-![](/issue/img/Picture3.png "閉鎖式命題寫作流程")
-
----
+<img src="/issue/img/Picture4.png" width="50%" height="50%" alt="閉鎖式命題寫作流程">
 
 ### 時間安排
 
