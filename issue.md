@@ -9,7 +9,7 @@ GRE 作文考一題 Analyze an Issue，時間是30分鐘。考試時會從 ETS �
 
 每一個 Issue 題包含一個命題 (statement) 和寫作指示 (instructions)，如下題：
 
-<img src="/issue/img/Picture1.png" width="800" height="600" alt="例題">
+<img src="/issue/img/Picture1.png" width="50%" height="50%" alt="例題">
 
 ---
 
